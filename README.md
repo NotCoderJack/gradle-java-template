@@ -22,7 +22,8 @@ bash setup_project.sh
 bash setup_project.sh
 
 ## Problems may block
-- ackoverflow.com/questions/42591546/gradle-sync-failed-cause-error-in-opening-zip-file-corrupt-dependency-cache/42600670)
+- [gradle-sync-failed](https://stackoverflow.com/questions/42591546/gradle-sync-failed-cause-error-in-opening-zip-file-corrupt-dependency-cache/42600670)
 
 
-respect to [github.com ben-wangz](https://github.com/ben-wangz)
+## Respect
+ - [github.com ben-wangz](https://github.com/ben-wangz)
