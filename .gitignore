@@ -1,0 +1,9 @@
+.idea/
+.gradle/
+build/
+gradle/
+out/
+**/.DS_Store
+*.iml
+!gradle/wget_gradle_all_package.sh
+!gradle/wrapper
